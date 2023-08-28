@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Komal, a full-time full-stack developer 👨‍💻 </div>  
+### <div align="left">I'm Komal, a full-time full-stack developer 👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning Spring Boot Framework  
@@ -86,4 +86,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
