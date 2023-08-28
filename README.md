@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Spring Boot Framework  
   
 
-- ❓ Ask me about anything related to Java Full stack and related technologies  
+- ❓ Ask me about anything related to Java Full stack technologies.   
   
 
 - 📫 How to reach me komaldixit1510@gmail.com  
