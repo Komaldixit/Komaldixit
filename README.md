@@ -2,7 +2,7 @@
 ### <div align="center">I'm Komal, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning Spring Boot Framework  
+- 🌱 I’m currently exploring Spring Boot Framework  
   
 
 - ❓ Ask me about anything related to Java Full stack technologies.   
@@ -11,7 +11,7 @@
 - 📫 How to reach me komaldixit1510@gmail.com  
   
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1kwqgZQzsVqy7NTje3bcdVQ5A5bhC1N-c/view?usp=drive_link  
+- 📄 Know about my experience https://drive.google.com/file/d/18kmbVSfUHmPyWiGBh-XklneRXa1HB927/view?usp=drive_link
   
 
 <br/>  
