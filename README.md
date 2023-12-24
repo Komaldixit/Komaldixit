@@ -9,10 +9,7 @@
   
 
 - 📫 How to reach me komaldixit1510@gmail.com  
-  
-
-- 📄 Know about my experience https://drive.google.com/file/d/18kmbVSfUHmPyWiGBh-XklneRXa1HB927/view?usp=drive_link
-  
+    
 
 <br/>  
 
