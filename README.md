@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Komal, a full-time full-stack developer 👨‍💻 </div>  
+### <div align="center">Hii there 👋 </div>  
   
 
 - 🌱 I’m currently exploring Spring Boot Framework  
@@ -7,8 +7,6 @@
 
 - ❓ Ask me about anything related to Java Full stack technologies.   
   
-
-- 📫 How to reach me komaldixit1510@gmail.com  
     
 
 <br/>  
@@ -58,9 +56,6 @@
 <a href="https://linkedin.com/in/komal-dixit-15k" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/komal_dixit15" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
